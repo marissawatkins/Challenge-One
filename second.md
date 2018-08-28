@@ -5,8 +5,8 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
 
-⋅⋅* bulleted list
-⋅⋅* bulleted list 2
+* bulleted list
+* bulleted list 2
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
