@@ -1,6 +1,6 @@
 #### H4
 
-[Link to second.md](https://github.com/marissawatkins/challenge-one/blob/master/README.md)
+[Link to README.md](https://github.com/marissawatkins/challenge-one/blob/master/README.md)
 
 ```javascript
 var s = "JavaScript syntax highlighting";
