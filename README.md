@@ -1,7 +1,7 @@
 # challenge-one
 This directory will hold files for challenge one 
 
-[a link test] https://github.com/marissawatkins/challenge-one/blob/master/second.md
+[a link test] (https://github.com/marissawatkins/challenge-one/blob/master/second.md)
 [Link to second.md](../blob/master/second.md)
 
 ## H2
