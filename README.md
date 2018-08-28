@@ -19,3 +19,5 @@ This directory will hold files for challenge one
 | zebra stripes | are neat      |    $1 |
 
 ![alt text] (https://github.com/marissawatkins/challenge-one/blob/master/IMG_0522.JPG)
+
+https://github.com/marissawatkins/challenge-one/blob/master/IMG_0522.JPG?raw=true
