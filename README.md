@@ -18,4 +18,4 @@ This directory will hold files for challenge one
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-(https://github.com/marissawatkins/challenge-one/blob/master/IMG_0522.jpg)
+![alt text] (https://github.com/marissawatkins/challenge-one/blob/master/IMG_0522.JPG)
